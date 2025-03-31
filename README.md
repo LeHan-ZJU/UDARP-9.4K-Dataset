@@ -1,12 +1,12 @@
 # UDARP-9.4K-Dataset
 
 ## Annotations Overview
-### Illustration of annotations
+### 1. Illustration of annotations
 <p align="center">
 <img src="github/dataset.jpg" width="940" height='360'>
 </p>
 
-### Table: Definition of rat keypoints
+### 2. Definition of rat keypoints
 
 | Keypoint | Definition             | Keypoint | Definition             |
 |----------|------------------------|----------|------------------------|
@@ -16,7 +16,7 @@
 | 4        | Left Forelimb          | 9        | Tail Midpoint          |
 | 5        | Tail Root              | 10       | Tail Endpoint          | 
 
-### Form of dataset
+### 3. Form of the dataset
 ```text
 UDARP-9.4K Dataset
 |── UDARP-9.4K
