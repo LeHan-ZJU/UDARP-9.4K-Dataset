@@ -3,7 +3,7 @@
 ## Annotations Overview
 ### Illustration of annotations
 <p align="center">
-<img src="github/dataset.jpg" width="940" height='380'>
+<img src="github/dataset.jpg" width="940" height='360'>
 </p>
 
 ### Table: Definition of rat keypoints
