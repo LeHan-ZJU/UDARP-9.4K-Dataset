@@ -1,6 +1,23 @@
 # UDARP-9.4K-Dataset
 
-## If you are interested in our work, please cite the following:
+## Annotations Overview
+### Illustration of annotations
+<p align="center">
+<img src="github/dataset.jpg" width="920" height='380'>
+</p>
+
+### Table: Definition of Rat Keypoints
+
+| Keypoint | Definition             | Keypoint | Definition             |
+|----------|------------------------|----------|------------------------|
+| 1        | Right Hindlimb         | 6        | Head                   |
+| 2        | Left Hindlimb          | 7        | Neck                   |
+| 3        | Right Forelimb         | 8        | Spine Midpoint         |
+| 4        | Left Forelimb          | 9        | Tail Midpoint          |
+| 5        | Tail Root              | 10       | Tail Endpoint          | 
+
+## License
+### If you are interested in our work, please cite the following:
 
 ```
 @article{han2025cross,
