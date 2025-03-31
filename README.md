@@ -43,7 +43,9 @@ UDARP-9.4K Dataset
 ```
 
 ## License
-### If you are interested in our work, please cite the following:
+The dataset follows CC-BY-4.0 license.
+
+If you are interested in our work, please cite the following:
 
 ```
 @article{han2025cross,
