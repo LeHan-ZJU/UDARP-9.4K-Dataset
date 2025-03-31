@@ -1,4 +1,4 @@
-# UDARP-9.4K-Dataset
+# UDARP-9.4K Dataset
 
 ## Dataset Overview
 ### 1. Illustration of annotations
