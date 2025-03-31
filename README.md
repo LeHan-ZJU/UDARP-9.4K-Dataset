@@ -6,7 +6,7 @@
 <img src="github/dataset.jpg" width="920" height='380'>
 </p>
 
-### Table: Definition of Rat Keypoints
+### Table: Definition of rat keypoints
 
 | Keypoint | Definition             | Keypoint | Definition             |
 |----------|------------------------|----------|------------------------|
@@ -16,7 +16,7 @@
 | 4        | Left Forelimb          | 9        | Tail Midpoint          |
 | 5        | Tail Root              | 10       | Tail Endpoint          | 
 
-### Dataset
+### Form of dataset
 ```text
 UDARP-9.4K
 |── UDARP-9.4K
