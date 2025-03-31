@@ -18,7 +18,7 @@
 
 ### Form of dataset
 ```text
-UDARP-9.4K
+UDARP-9.4K Dataset
 |── UDARP-9.4K
     │── Lawn scenarios
         │-- Tilt_Indoor
@@ -32,21 +32,13 @@ UDARP-9.4K
         │-- maze
         │   │-- 1 .bmp
         │   │-- ...
-        │-- maze2
-        │   │-- maze1_0.jpg
-        │   │-- ...
         │-- minefield
-        │   │-- 1.bmp
-        │   │-- ...
-        │-- minefield2
-        │   │-- minefield1_0.jpg
-        │   │-- ...
-        │-- treadmill
         │   │-- 1.bmp
         │   │-- ...
         │-- treadmill2
         │   │-- treadmill1_0.jpg
         │   │-- ...
+        │-- ...
         │-- Platform_scenarios.csv
 ```
 
