@@ -1,6 +1,6 @@
 # UDARP-9.4K-Dataset
 
-## Annotations Overview
+## Dataset Overview
 ### 1. Illustration of annotations
 <p align="center">
 <img src="github/dataset.jpg" width="940" height='360'>
