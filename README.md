@@ -54,5 +54,6 @@ If you are interested in our work, please cite the following:
   journal={IEEE Transactions on Circuits and Systems for Video Technology},
   year={2025},
   publisher={IEEE}
+  doi={10.1109/TCSVT.2025.3557844}
 }
 ```
